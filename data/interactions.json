@@ -1,0 +1,488 @@
+[
+  {
+    "id": "call_1791879795233_w1qml",
+    "sessionId": "transearch-jeffery-1791879790813",
+    "date": "2026-10-13",
+    "time": "13:53:10",
+    "startedAt": "2026-10-13T08:23:10.813Z",
+    "endedAt": "2026-10-13T08:23:15.220Z",
+    "durationSecs": 4.407,
+    "durationFormatted": "4s",
+    "ipAddress": "::1",
+    "geoLocation": {
+      "ip": "::1",
+      "city": "Localhost / Internal Test",
+      "region": "Workstation",
+      "country": "Development Network",
+      "countryCode": "DEV",
+      "isLocal": true
+    },
+    "agentId": "transearch-jeffery",
+    "agentName": "Sara",
+    "mandate": "Senior Executive Search Consultant",
+    "route": "/oxane-sales-jeffery-reiss",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+    "deviceType": "Mobile",
+    "segments": [
+      {
+        "speaker": "Agent",
+        "text": "Hello, Jeffery. My name is Sara, and I am a Senior Executive Search Consultant with TRANSEARCH, one of the world's leading executive search and leadership consulting firms. Thank you for taking",
+        "timestamp": 1791879792138
+      }
+    ],
+    "totalTurns": 1,
+    "status": "Completed",
+    "createdAt": "2026-10-13T08:23:15.232Z"
+  },
+  {
+    "id": "call_1791879676120_z3nw0",
+    "sessionId": "transearch-jeffery-1791879672774",
+    "date": "2026-10-13",
+    "time": "13:51:12",
+    "startedAt": "2026-10-13T08:21:12.774Z",
+    "endedAt": "2026-10-13T08:21:16.102Z",
+    "durationSecs": 3.328,
+    "durationFormatted": "3s",
+    "ipAddress": "::1",
+    "geoLocation": {
+      "ip": "::1",
+      "city": "Localhost / Internal Test",
+      "region": "Workstation",
+      "country": "Development Network",
+      "countryCode": "DEV",
+      "isLocal": true
+    },
+    "agentId": "transearch-jeffery",
+    "agentName": "Sara",
+    "mandate": "Senior Executive Search Consultant",
+    "route": "/oxane-sales-jeffery-reiss",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+    "deviceType": "Mobile",
+    "segments": [
+      {
+        "speaker": "Agent",
+        "text": "Hello, Jeffery. My name is Sara, and I am a Senior Executive Search Consultant with TRANSEARCH, one of the world's",
+        "timestamp": 1791879674149
+      }
+    ],
+    "totalTurns": 1,
+    "status": "Completed",
+    "createdAt": "2026-10-13T08:21:16.120Z"
+  },
+  {
+    "id": "call_1791879478657_nxf18",
+    "sessionId": "transearch-jeffery-1791879474055",
+    "date": "2026-10-13",
+    "time": "13:47:54",
+    "startedAt": "2026-10-13T08:17:54.055Z",
+    "endedAt": "2026-10-13T08:17:58.589Z",
+    "durationSecs": 4.534,
+    "durationFormatted": "5s",
+    "ipAddress": "::1",
+    "geoLocation": {
+      "ip": "::1",
+      "city": "Localhost / Internal Test",
+      "region": "Workstation",
+      "country": "Development Network",
+      "countryCode": "DEV",
+      "isLocal": true
+    },
+    "agentId": "transearch-jeffery",
+    "agentName": "Sara",
+    "mandate": "Senior Executive Search Consultant",
+    "route": "/oxane-sales-jeffery-reiss",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+    "deviceType": "Mobile",
+    "segments": [
+      {
+        "speaker": "Agent",
+        "text": "Hello, Jeffery. My name is Sara, and I am a Senior Executive Search Consultant with TRANSEARCH, one of the world's leading executive search and leadership consulting firms. Thank you for",
+        "timestamp": 1791879475424
+      }
+    ],
+    "totalTurns": 1,
+    "status": "Completed",
+    "createdAt": "2026-10-13T08:17:58.657Z"
+  },
+  {
+    "id": "call_1791879209701_kpifn",
+    "sessionId": "transearch-1791879206082",
+    "date": "2026-10-13",
+    "time": "13:43:26",
+    "startedAt": "2026-10-13T08:13:26.082Z",
+    "endedAt": "2026-10-13T08:13:29.657Z",
+    "durationSecs": 3.575,
+    "durationFormatted": "4s",
+    "ipAddress": "::1",
+    "geoLocation": {
+      "ip": "::1",
+      "city": "Localhost / Internal Test",
+      "region": "Workstation",
+      "country": "Development Network",
+      "countryCode": "DEV",
+      "isLocal": true
+    },
+    "agentId": "transearch",
+    "agentName": "Sara",
+    "mandate": "Senior Executive Search Consultant",
+    "route": "/",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+    "deviceType": "Mobile",
+    "segments": [
+      {
+        "speaker": "Agent",
+        "text": "Hello. My name is Sara, and I am a Senior Executive Search Consultant with TRANSEARCH International",
+        "timestamp": 1791879207708
+      }
+    ],
+    "totalTurns": 1,
+    "status": "Completed",
+    "createdAt": "2026-10-13T08:13:29.700Z"
+  },
+  {
+    "id": "call_1791876833872_skycx",
+    "sessionId": "transearch-1791876824193",
+    "date": "2026-10-13",
+    "time": "13:03:44",
+    "startedAt": "2026-10-13T07:33:44.193Z",
+    "endedAt": "2026-10-13T07:33:53.833Z",
+    "durationSecs": 9.64,
+    "durationFormatted": "10s",
+    "ipAddress": "::1",
+    "geoLocation": {
+      "ip": "::1",
+      "city": "Localhost / Internal Test",
+      "region": "Workstation",
+      "country": "Development Network",
+      "countryCode": "DEV",
+      "isLocal": true
+    },
+    "agentId": "transearch",
+    "agentName": "Sara",
+    "mandate": "Senior Executive Search Consultant",
+    "route": "/",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "segments": [
+      {
+        "speaker": "Agent",
+        "text": "Hello. My name is Sara, and I am a Senior Executive Search Consultant with TRANSEARCH International — one of the world's leading executive search and leadership consulting firms, with a presence in more than 40 countries. We advise Boards and senior leadership teams on business critical executive appointments globally. Thank you for taking a few moments to speak with me.\n\nIs this a convenient time for a brief conversation?",
+        "timestamp": 1791876825792
+      }
+    ],
+    "totalTurns": 1,
+    "status": "Completed",
+    "createdAt": "2026-10-13T07:33:53.872Z"
+  },
+  {
+    "id": "call_1791876055055_yz06n",
+    "sessionId": "transearch-1791876033935",
+    "date": "2026-10-13",
+    "time": "12:50:33",
+    "startedAt": "2026-10-13T07:20:33.935Z",
+    "endedAt": "2026-10-13T07:20:53.991Z",
+    "durationSecs": 20.056,
+    "durationFormatted": "20s",
+    "ipAddress": "::1",
+    "geoLocation": {
+      "ip": "::1",
+      "city": "Localhost / Internal Test",
+      "region": "Workstation",
+      "country": "Development Network",
+      "countryCode": "DEV",
+      "isLocal": true
+    },
+    "agentId": "transearch",
+    "agentName": "Sara",
+    "mandate": "Senior Executive Search Consultant",
+    "route": "/",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+    "deviceType": "Desktop",
+    "segments": [
+      {
+        "speaker": "Agent",
+        "text": "Hello. My name is Sara, and I am a Senior Executive Search Consultant with TRANSEARCH International — one of the world's leading executive search and leadership consulting firms, with a presence in more than 40 countries. We advise Boards and senior leadership teams on business-critical executive appointments globally. Thank you for taking a few moments to speak with me.\n\nIs this a convenient time for a brief conversation?",
+        "timestamp": 1791876036049
+      }
+    ],
+    "totalTurns": 1,
+    "status": "Completed",
+    "createdAt": "2026-10-13T07:20:55.055Z"
+  },
+  {
+    "id": "call_1791830409280_osi2g",
+    "sessionId": "test_session_live_8912",
+    "date": "2026-10-12",
+    "time": "00:08:08",
+    "startedAt": "2026-10-12T18:38:08.497Z",
+    "endedAt": "2026-10-12T18:40:08.497Z",
+    "durationSecs": 120,
+    "durationFormatted": "2m 00s",
+    "ipAddress": "185.220.101.5",
+    "geoLocation": {
+      "ip": "185.220.101.5",
+      "city": "Direct Visitor",
+      "country": "International",
+      "countryCode": "GLOBAL",
+      "isLocal": false
+    },
+    "agentId": "switzerland-exec",
+    "agentName": "Sara (Switzerland Executive Partner)",
+    "mandate": "AVP – Client Partner (Switzerland)",
+    "route": "/talktotransearch",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/133.0",
+    "deviceType": "Desktop",
+    "candidateInfo": {
+      "name": "Dr. Lukas Meier",
+      "email": "lukas.meier@basel-biotech.ch",
+      "phone": "+41 61 284 9011",
+      "currentRole": "Senior VP Commercial Affairs",
+      "notes": "Interested in Basel mandate. Discussion on leadership transition."
+    },
+    "segments": [
+      {
+        "speaker": "Assistant",
+        "text": "Good afternoon Dr. Meier. I am Sara from TRANSEARCH International. We are conducting a confidential leadership search for our client in Basel.",
+        "timestamp": 1
+      },
+      {
+        "speaker": "User",
+        "text": "Thank you Sara. I am keen to learn more about the board mandate and practice areas.",
+        "timestamp": 14
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Certainly. The role is focused on life sciences client partnerships across Switzerland and the DACH region.",
+        "timestamp": 28
+      }
+    ],
+    "totalTurns": 3,
+    "status": "Lead Captured",
+    "createdAt": "2026-10-12T18:40:09.280Z"
+  },
+  {
+    "id": "call_seed_001",
+    "sessionId": "sess_earc_amit_98231",
+    "date": "2026-10-12",
+    "time": "19:42:10",
+    "startedAt": "2026-10-12T18:04:54.603Z",
+    "endedAt": "2026-10-12T18:09:54.603Z",
+    "durationSecs": 312,
+    "durationFormatted": "5m 12s",
+    "ipAddress": "103.21.124.66",
+    "geoLocation": {
+      "ip": "103.21.124.66",
+      "city": "Gurgaon",
+      "region": "Haryana",
+      "country": "India",
+      "countryCode": "IN",
+      "timezone": "Asia/Kolkata",
+      "isLocal": false
+    },
+    "agentId": "earc-amit",
+    "agentName": "Sara (EARC Consultant)",
+    "mandate": "Head – Analytics",
+    "route": "/talktosara-amit",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/133.0",
+    "deviceType": "Desktop",
+    "candidateInfo": {
+      "name": "Amit Kumar",
+      "email": "amit.kumar@analytics-lead.com",
+      "phone": "+91 98112 45890",
+      "currentRole": "VP Analytics & Risk Modelling",
+      "notes": "Interested in EARC mandate. Discussed portfolio recovery models, team size of 24, and board reporting hierarchy."
+    },
+    "segments": [
+      {
+        "speaker": "Assistant",
+        "text": "Hello Amit! I am Sara from TRANSEARCH International. We are conducting an executive search for the Head of Analytics appointment at Encore Asset Reconstruction Company. It is great to speak with you.",
+        "timestamp": 1
+      },
+      {
+        "speaker": "User",
+        "text": "Hi Sara, thanks for reaching out. Yes, I saw the briefing note. Could you share more details about the primary challenges for the portfolio analytics team?",
+        "timestamp": 8
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Certainly Amit. The mandate oversees retail and SME NPA portfolios, predictive recovery scoring, and developing an enterprise data lake. The role reports directly to the MD & CEO.",
+        "timestamp": 18
+      },
+      {
+        "speaker": "User",
+        "text": "That aligns well with my background in debt resolution analytics. What is the expected timeline for executive rounds?",
+        "timestamp": 35
+      },
+      {
+        "speaker": "Assistant",
+        "text": "The search committee is scheduling leadership interactions for early next month. I have noted your interest and will coordinate with the Senior Partner at TRANSEARCH.",
+        "timestamp": 49
+      }
+    ],
+    "totalTurns": 5,
+    "status": "Lead Captured",
+    "createdAt": "2026-10-12T18:09:54.603Z"
+  },
+  {
+    "id": "call_seed_002",
+    "sessionId": "sess_indegene_david_4821",
+    "date": "2026-10-12",
+    "time": "18:05:40",
+    "startedAt": "2026-10-12T16:19:54.603Z",
+    "endedAt": "2026-10-12T16:25:54.603Z",
+    "durationSecs": 374,
+    "durationFormatted": "6m 14s",
+    "ipAddress": "178.197.234.12",
+    "geoLocation": {
+      "ip": "178.197.234.12",
+      "city": "Zurich",
+      "region": "Zurich",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "timezone": "Europe/Zurich",
+      "isLocal": false
+    },
+    "agentId": "david-indegene",
+    "agentName": "David (TRANSEARCH Lead)",
+    "mandate": "AVP – Client Partner (Indegene)",
+    "route": "/talktotransearch-david",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Safari/17.4",
+    "deviceType": "Desktop",
+    "candidateInfo": {
+      "name": "David Schneider",
+      "email": "david.schneider@lifesciences-exec.ch",
+      "phone": "+41 44 215 8890",
+      "currentRole": "Managing Director, Commercial Life Sciences",
+      "notes": "Strong engagement regarding DACH pharma client expansion. Compensation expectations aligned with Swiss executive bands."
+    },
+    "segments": [
+      {
+        "speaker": "Assistant",
+        "text": "Good day David. Welcome to TRANSEARCH International. I am briefing you on the AVP Client Partner position with Indegene for enterprise life sciences accounts across Switzerland and DACH.",
+        "timestamp": 1
+      },
+      {
+        "speaker": "User",
+        "text": "Hello. Yes, I am familiar with Indegene’s digital health consulting practice. Are the target accounts primarily Big Pharma in Basel?",
+        "timestamp": 9
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Exactly David. The remit anchors top-tier pharmaceutical and biotech accounts in Basel and Zurich, focusing on digital clinical trials and commercial transformation.",
+        "timestamp": 24
+      },
+      {
+        "speaker": "User",
+        "text": "Understood. My current non-compete allows this sector directly. Please send over the confidential brief.",
+        "timestamp": 42
+      }
+    ],
+    "totalTurns": 4,
+    "status": "Lead Captured",
+    "createdAt": "2026-10-12T16:25:54.603Z"
+  },
+  {
+    "id": "call_seed_003",
+    "sessionId": "sess_oxane_jeffery_11902",
+    "date": "2026-10-12",
+    "time": "15:15:20",
+    "startedAt": "2026-10-12T13:19:54.603Z",
+    "endedAt": "2026-10-12T13:23:54.603Z",
+    "durationSecs": 245,
+    "durationFormatted": "4m 05s",
+    "ipAddress": "68.195.89.201",
+    "geoLocation": {
+      "ip": "68.195.89.201",
+      "city": "New York",
+      "region": "New York",
+      "country": "United States",
+      "countryCode": "US",
+      "timezone": "America/New_York",
+      "isLocal": false
+    },
+    "agentId": "jeffery-oxane",
+    "agentName": "Sara (Oxane Mandate)",
+    "mandate": "Head of Sales US (Oxane Partners)",
+    "route": "/talktosara-jeffery",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148",
+    "deviceType": "Mobile",
+    "candidateInfo": {
+      "name": "Jeffery Reiss",
+      "email": "jeffery.reiss@privatecapital.com",
+      "phone": "+1 (212) 555-0192",
+      "currentRole": "Managing Director – FinTech & Private Markets",
+      "notes": "Discussed North American institutional sales quota ($12M ARR). Follow up requested with London managing partner."
+    },
+    "segments": [
+      {
+        "speaker": "Assistant",
+        "text": "Welcome Jeffery. I am Sara from TRANSEARCH International. We are conducting the confidential retained search for Oxane Partners for their Head of Sales US appointment.",
+        "timestamp": 1
+      },
+      {
+        "speaker": "User",
+        "text": "Hi Sara. Yes, I am interested in how Oxane is positioning their credit valuation software against BlackRock Aladdin and legacy providers.",
+        "timestamp": 12
+      },
+      {
+        "speaker": "Assistant",
+        "text": "Oxane specializes deeply in private debt portfolio monitoring and structured credit servicing, offering high-touch bespoke financial engineering alongside their SaaS stack.",
+        "timestamp": 29
+      }
+    ],
+    "totalTurns": 3,
+    "status": "Completed",
+    "createdAt": "2026-10-12T13:23:54.603Z"
+  },
+  {
+    "id": "call_seed_004",
+    "sessionId": "sess_switzerland_general_0911",
+    "date": "2026-10-12",
+    "time": "10:20:00",
+    "startedAt": "2026-10-12T06:39:54.603Z",
+    "endedAt": "2026-10-12T06:42:54.603Z",
+    "durationSecs": 185,
+    "durationFormatted": "3m 05s",
+    "ipAddress": "194.230.145.8",
+    "geoLocation": {
+      "ip": "194.230.145.8",
+      "city": "Geneva",
+      "region": "Geneva",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "timezone": "Europe/Zurich",
+      "isLocal": false
+    },
+    "agentId": "switzerland-exec",
+    "agentName": "Sara (Switzerland)",
+    "mandate": "AVP – Client Partner (Switzerland)",
+    "route": "/talktotransearch",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0",
+    "deviceType": "Desktop",
+    "candidateInfo": {
+      "name": "Elena Rossi",
+      "email": "elena.rossi@pharma-exec.eu",
+      "notes": "Exploratory inquiry into Switzerland partner role."
+    },
+    "segments": [
+      {
+        "speaker": "Assistant",
+        "text": "Hello, welcome to TRANSEARCH International. I am Sara, executive advisor for our Switzerland practice. How may I assist your career exploration today?",
+        "timestamp": 1
+      },
+      {
+        "speaker": "User",
+        "text": "I wanted to know more about the seniority level of the Client Partner role in Basel.",
+        "timestamp": 11
+      },
+      {
+        "speaker": "Assistant",
+        "text": "The AVP Client Partner is a senior revenue and relationship leadership role advising Global 500 life sciences boards.",
+        "timestamp": 24
+      }
+    ],
+    "totalTurns": 3,
+    "status": "Completed",
+    "createdAt": "2026-10-12T06:42:54.603Z"
+  }
+]
