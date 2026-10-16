@@ -47,7 +47,7 @@ function getInitialSeedData(): CallInteraction[] {
       agentId: 'earc-amit',
       agentName: 'Sara (EARC Consultant)',
       mandate: 'Head – Analytics',
-      route: '/talktosara-amit',
+      route: '/earc-analytics-amit-kumar',
       userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/133.0',
       deviceType: 'Desktop',
       candidateInfo: {
@@ -90,7 +90,7 @@ function getInitialSeedData(): CallInteraction[] {
       agentId: 'david-indegene',
       agentName: 'David (TRANSEARCH Lead)',
       mandate: 'AVP – Client Partner (Indegene)',
-      route: '/talktotransearch-david',
+      route: '/indegene-partner-david-schneider',
       userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Safari/17.4',
       deviceType: 'Desktop',
       candidateInfo: {
@@ -132,7 +132,7 @@ function getInitialSeedData(): CallInteraction[] {
       agentId: 'jeffery-oxane',
       agentName: 'Sara (Oxane Mandate)',
       mandate: 'Head of Sales US (Oxane Partners)',
-      route: '/talktosara-jeffery',
+      route: '/oxane-sales-jeffery-reiss',
       userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148',
       deviceType: 'Mobile',
       candidateInfo: {
@@ -173,7 +173,7 @@ function getInitialSeedData(): CallInteraction[] {
       agentId: 'switzerland-exec',
       agentName: 'Sara (Switzerland)',
       mandate: 'AVP – Client Partner (Switzerland)',
-      route: '/talktotransearch',
+      route: '/switzerland-client-partner',
       userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/132.0',
       deviceType: 'Desktop',
       candidateInfo: {

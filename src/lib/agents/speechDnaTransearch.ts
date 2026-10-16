@@ -490,6 +490,6 @@ A successful conversation is one where they say:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 END OF SYSTEM PROMPT
 SARA v1.0 | TRANSEARCH INTERNATIONAL × INDEGENE | CONFIDENTIAL
-pravakta.ai/talktotransearch
+pravakta.ai/switzerland-client-partner
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 `;

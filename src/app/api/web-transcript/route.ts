@@ -79,7 +79,7 @@ export async function POST(request: NextRequest) {
       agentId: agent_id || 'transearch-general',
       agentName: agent_name || 'Sara (TRANSEARCH International)',
       mandate: industry || 'Executive Search & Leadership Advisory',
-      route: source_url ? new URL(source_url, 'http://localhost').pathname : '/talktotransearch',
+      route: source_url ? new URL(source_url, 'http://localhost').pathname : '/switzerland-client-partner',
       userAgent: rawUserAgent,
       deviceType,
       candidateInfo: lead_info || undefined,

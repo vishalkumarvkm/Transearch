@@ -19,7 +19,7 @@ export type VoicePanelType = 'oxane' | 'earc' | 'david' | 'sophie' | 'general';
 export interface CandidateRouteConfig {
   id: string;
   slug: string; // Primary canonical slug, e.g. "oxane-sales-jeffery-reiss"
-  aliases: string[]; // Variations: "oxane-head-sales-jeffery-reiss", etc.
+  aliases: string[];
   candidateGreetingName: string;
   candidateFullName: string;
   clientName: string;
@@ -38,17 +38,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'oxane-jeffery',
     slug: 'oxane-sales-jeffery-reiss',
-    aliases: [
-      'oxane-head-sales-jeffery-reiss',
-      'oxane-head-of-sales-jeffery-reiss',
-      'oxane-head-sales-us-jeffery-reiss',
-      'oxane-sales-jeffery-l-reiss',
-      'oxane-head-sales-jeffery-l-reiss',
-      'oxane-sales-jeffery',
-      'oxane-head-sales-jeffery',
-      'jeffery-reiss',
-      'talktosara-jeffery'
-    ],
+    aliases: [],
     candidateGreetingName: 'Jeffery',
     candidateFullName: 'Jeffery L. Reiss',
     clientName: 'Oxane Partners',
@@ -62,17 +52,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'oxane-juan',
     slug: 'oxane-sales-juan-zepeda',
-    aliases: [
-      'oxane-head-sales-juan-zepeda',
-      'oxane-head-of-sales-juan-zepeda',
-      'oxane-head-sales-us-juan-zepeda',
-      'oxane-sales-juan-p-zepeda',
-      'oxane-head-sales-juan-p-zepeda',
-      'oxane-sales-juan',
-      'oxane-head-sales-juan',
-      'juan-zepeda',
-      'talktosara-juan'
-    ],
+    aliases: [],
     candidateGreetingName: 'Juan',
     candidateFullName: 'Juan P. Zepeda',
     clientName: 'Oxane Partners',
@@ -86,17 +66,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'oxane-schlow',
     slug: 'oxane-sales-steven-schlow',
-    aliases: [
-      'oxane-head-sales-steven-schlow',
-      'oxane-head-of-sales-steven-schlow',
-      'oxane-head-sales-us-steven-schlow',
-      'oxane-sales-steven-e-schlow',
-      'oxane-head-sales-steven-e-schlow',
-      'oxane-sales-schlow',
-      'oxane-head-sales-schlow',
-      'steven-schlow',
-      'talktosara-schlow'
-    ],
+    aliases: [],
     candidateGreetingName: 'Steven',
     candidateFullName: 'Steven E. Schlow, CFA',
     clientName: 'Oxane Partners',
@@ -110,19 +80,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'oxane-joerg',
     slug: 'oxane-sales-steven-joerg',
-    aliases: [
-      'oxane-head-sales-steven-joerg',
-      'oxane-head-of-sales-steven-joerg',
-      'oxane-head-sales-us-steven-joerg',
-      'oxane-sales-steven-v-joerg',
-      'oxane-head-sales-steven-v-joerg',
-      'oxane-sales-steven-joerg-jr',
-      'oxane-head-sales-steven-joerg-jr',
-      'oxane-sales-joerg',
-      'oxane-head-sales-joerg',
-      'steven-joerg',
-      'talktosara-joerg'
-    ],
+    aliases: [],
     candidateGreetingName: 'Steven',
     candidateFullName: 'Steven V. Joerg Jr.',
     clientName: 'Oxane Partners',
@@ -140,14 +98,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'earc-sumit',
     slug: 'earc-analytics-sumit-kumar',
-    aliases: [
-      'earc-head-analytics-sumit-kumar',
-      'earc-head-of-analytics-sumit-kumar',
-      'earc-analytics-sumit',
-      'earc-head-analytics-sumit',
-      'sumit-kumar',
-      'talktosara-sumit'
-    ],
+    aliases: [],
     candidateGreetingName: 'Sumit',
     candidateFullName: 'Sumit Kumar',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -161,14 +112,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'earc-rockey',
     slug: 'earc-analytics-rockey-maheshwari',
-    aliases: [
-      'earc-head-analytics-rockey-maheshwari',
-      'earc-head-of-analytics-rockey-maheshwari',
-      'earc-analytics-rockey',
-      'earc-head-analytics-rockey',
-      'rockey-maheshwari',
-      'talktosara-rockey'
-    ],
+    aliases: [],
     candidateGreetingName: 'Rockey',
     candidateFullName: 'Rockey Maheshwari',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -182,17 +126,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'earc-ranvijay',
     slug: 'earc-analytics-ran-vijay-singh',
-    aliases: [
-      'earc-head-analytics-ran-vijay-singh',
-      'earc-head-of-analytics-ran-vijay-singh',
-      'earc-analytics-ranvijay-singh',
-      'earc-head-analytics-ranvijay-singh',
-      'earc-analytics-ran-vijay',
-      'earc-analytics-ranvijay',
-      'earc-head-analytics-ranvijay',
-      'ran-vijay-singh',
-      'talktosara-ranvijay'
-    ],
+    aliases: [],
     candidateGreetingName: 'Ran Vijay',
     candidateFullName: 'Ran Vijay Singh',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -206,18 +140,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'earc-mahesh',
     slug: 'earc-analytics-dhan-mahesh-nakka',
-    aliases: [
-      'earc-head-analytics-dhan-mahesh-nakka',
-      'earc-head-of-analytics-dhan-mahesh-nakka',
-      'earc-analytics-dhan-mahesh',
-      'earc-head-analytics-dhan-mahesh',
-      'earc-analytics-mahesh-nakka',
-      'earc-head-analytics-mahesh-nakka',
-      'earc-analytics-mahesh',
-      'earc-head-analytics-mahesh',
-      'dhan-mahesh-nakka',
-      'talktosara-mahesh'
-    ],
+    aliases: [],
     candidateGreetingName: 'Mahesh',
     candidateFullName: 'Dhan Mahesh Nakka',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -228,20 +151,10 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
     agent: transearchEarcMaheshAgent,
     description: 'Personalized executive consultation with Dhan Mahesh Nakka for the Head of Analytics mandate at EARC.'
   },
-
-  // =========================================================================
-  // Additional EARC & General Mandates
-  // =========================================================================
   {
     id: 'earc-amit',
     slug: 'earc-analytics-amit-kumar',
-    aliases: [
-      'earc-head-analytics-amit-kumar',
-      'earc-analytics-amit',
-      'earc-head-analytics-amit',
-      'amit-kumar',
-      'talktosara-amit'
-    ],
+    aliases: [],
     candidateGreetingName: 'Amit',
     candidateFullName: 'Amit Kumar',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -255,13 +168,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'earc-ankit',
     slug: 'earc-analytics-ankit-kumar',
-    aliases: [
-      'earc-head-analytics-ankit-kumar',
-      'earc-analytics-ankit',
-      'earc-head-analytics-ankit',
-      'ankit-kumar',
-      'talktosara-ankit'
-    ],
+    aliases: [],
     candidateGreetingName: 'Ankit',
     candidateFullName: 'Ankit Kumar',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -275,10 +182,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'earc-general',
     slug: 'earc-head-analytics',
-    aliases: [
-      'earc-analytics',
-      'talktosara-earc'
-    ],
+    aliases: [],
     candidateGreetingName: 'Executive',
     candidateFullName: 'Executive Leadership Candidate',
     clientName: 'Encore Asset Reconstruction Company (EARC)',
@@ -291,16 +195,12 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   },
 
   // =========================================================================
-  // Indegene & TRANSEARCH Switzerland Mandates
+  // Mandate 3: Indegene & TRANSEARCH Switzerland Mandates
   // =========================================================================
   {
     id: 'indegene-david',
     slug: 'indegene-partner-david-schneider',
-    aliases: [
-      'indegene-partner-david',
-      'david-schneider',
-      'talktotransearch-david'
-    ],
+    aliases: [],
     candidateGreetingName: 'David',
     candidateFullName: 'David Schneider',
     clientName: 'Indegene',
@@ -314,11 +214,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'indegene-sophie',
     slug: 'indegene-partner-sophie-laurent',
-    aliases: [
-      'indegene-partner-sophie',
-      'sophie-laurent',
-      'talktotransearch-sophie'
-    ],
+    aliases: [],
     candidateGreetingName: 'Sophie',
     candidateFullName: 'Sophie Laurent',
     clientName: 'Indegene',
@@ -332,11 +228,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
   {
     id: 'transearch-general',
     slug: 'switzerland-client-partner',
-    aliases: [
-      'transearch-client-partner-switzerland',
-      'switzerland-partner',
-      'talktotransearch'
-    ],
+    aliases: [],
     candidateGreetingName: 'Executive',
     candidateFullName: 'AVP – Client Partner',
     clientName: 'TRANSEARCH International',
@@ -351,7 +243,7 @@ export const CANDIDATE_CONFIGS: CandidateRouteConfig[] = [
 
 export function getCandidateConfigBySlug(slug: string): CandidateRouteConfig | undefined {
   if (!slug) return undefined;
-  const normalized = slug.toLowerCase().trim().replace(/^\/+|\/+$/g, '');
+  const normalized = slug.toLowerCase().trim().replace(/^\/+|\/+$/g, "");
 
   for (const config of CANDIDATE_CONFIGS) {
     if (config.slug === normalized) {

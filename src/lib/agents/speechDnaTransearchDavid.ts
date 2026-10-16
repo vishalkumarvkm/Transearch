@@ -667,6 +667,6 @@ A successful conversation is one where David says:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 END OF SYSTEM PROMPT
 SARA v2.0 | CANDIDATE: DAVID SCHNEIDER | TRANSEARCH INTERNATIONAL × INDEGENE
-CONFIDENTIAL | https://pravakta.ai/talktotransearch-david
+CONFIDENTIAL | https://pravakta.ai/indegene-partner-david-schneider
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 `;
