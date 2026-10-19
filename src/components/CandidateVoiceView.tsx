@@ -64,7 +64,7 @@ export default function CandidateVoiceView({ config }: CandidateVoiceViewProps) 
               I hope you&apos;re doing well.
             </p>
             <p className="text-base md:text-lg text-gray-700 font-medium leading-relaxed px-2">
-              I would like to share a senior leadership assignment with you on behalf of TRANSEARCH for our client, {config.clientName}.
+              I would like to share a confidential senior leadership assignment with you on behalf of TRANSEARCH.
             </p>
             <p className="text-xs font-bold text-[#D4AF37] tracking-[0.2em] uppercase pt-4">
               REGARDS, SARA · ROUTE: {config.route.toUpperCase()}

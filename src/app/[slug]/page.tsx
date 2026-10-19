@@ -28,11 +28,11 @@ export async function generateMetadata(props: PageProps): Promise<Metadata> {
   }
 
   return {
-    title: `TRANSEARCH Briefing · ${config.candidateFullName} (${config.clientName})`,
-    description: `Executive leadership briefing for ${config.candidateFullName} regarding the ${config.role} appointment at ${config.clientName}.`,
+    title: `TRANSEARCH Briefing · ${config.candidateFullName}`,
+    description: `Executive leadership briefing for ${config.candidateFullName} regarding a confidential ${config.role} appointment.`,
     openGraph: {
       title: `TRANSEARCH Briefing · ${config.candidateFullName}`,
-      description: `Senior Executive Mandate: ${config.role} — ${config.clientName} (${config.location})`,
+      description: `Confidential Senior Executive Mandate: ${config.role} (${config.location})`,
       siteName: "TRANSEARCH International",
     },
   };
