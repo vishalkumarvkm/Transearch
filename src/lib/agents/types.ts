@@ -1,5 +1,3 @@
-import type { ReactNode } from 'react';
-
 export type AgentDef = {
   id: string;
   label: string;
@@ -7,7 +5,7 @@ export type AgentDef = {
   role: string;
   tagline: string;
   languages: string;
-  icon: ReactNode;
+  icon?: string;
   accentHex: string;
   voiceName: string;
   systemInstruction: string;

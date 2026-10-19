@@ -8,13 +8,15 @@ import TransearchCandidateVoicePanel from "@/components/TransearchCandidateVoice
 import TransearchDavidVoicePanel from "@/components/TransearchDavidVoicePanel";
 import TransearchSophieVoicePanel from "@/components/TransearchSophieVoicePanel";
 import TransearchVoicePanel from "@/components/TransearchVoicePanel";
-import type { CandidateRouteConfig } from "@/lib/agents/candidateRoutes";
+import { getCandidateConfigBySlug, type CandidateRouteConfig } from "@/lib/agents/candidateRoutes";
 
 interface CandidateVoiceViewProps {
-  config: CandidateRouteConfig;
+  slug?: string;
+  config?: CandidateRouteConfig;
 }
 
-export default function CandidateVoiceView({ config }: CandidateVoiceViewProps) {
+export default function CandidateVoiceView({ slug, config: initialConfig }: CandidateVoiceViewProps) {
+  const config = initialConfig || (slug ? getCandidateConfigBySlug(slug) : undefined);
   const [isOpen, setIsOpen] = useState(false);
 
   useEffect(() => {
@@ -25,6 +27,8 @@ export default function CandidateVoiceView({ config }: CandidateVoiceViewProps) 
       }
     }
   }, []);
+
+  if (!config) return null;
 
   const handleStartCall = async () => {
     try {

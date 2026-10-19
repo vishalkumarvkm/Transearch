@@ -46,5 +46,5 @@ export default async function CandidateSlugPage(props: PageProps) {
     notFound();
   }
 
-  return <CandidateVoiceView config={config} />;
+  return <CandidateVoiceView slug={slug} />;
 }

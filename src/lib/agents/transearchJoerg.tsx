@@ -1,4 +1,3 @@
-import { TransearchIcon } from '@/components/icons/TransearchIcon';
 import type { AgentDef } from './types';
 import { TRANSEARCH_SPEECH_DNA_JOERG } from './speechDnaTransearchJoerg';
 
@@ -11,7 +10,6 @@ export const transearchJoergAgent: AgentDef = {
   role: 'Senior Executive Search Consultant',
   tagline: 'Personalized executive search outreach for Steven V. Joerg Jr. (TekSkills Inc.) for Oxane Partners Head of Sales (US)',
   languages: 'English',
-  icon: <TransearchIcon className="w-5 h-5" />,
   accentHex: '#0D1B2A',
   voiceName: 'Aoede',
   systemInstruction: TRANSEARCH_SPEECH_DNA_JOERG,

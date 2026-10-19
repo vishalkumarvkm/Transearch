@@ -1,4 +1,3 @@
-import { TransearchIcon } from '@/components/icons/TransearchIcon';
 import type { AgentDef } from './types';
 import { TRANSEARCH_SPEECH_DNA } from './speechDnaTransearch';
 
@@ -11,7 +10,6 @@ export const transearchAgent: AgentDef = {
   role: 'Senior Executive Search Consultant',
   tagline: 'Connect with Sara to explore confidential executive search opportunities at TRANSEARCH International',
   languages: 'English',
-  icon: <TransearchIcon className="w-5 h-5" />,
   accentHex: '#0D1B2A',
   voiceName: 'Aoede',
   systemInstruction: TRANSEARCH_SPEECH_DNA,

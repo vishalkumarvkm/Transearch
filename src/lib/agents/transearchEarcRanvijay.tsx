@@ -1,4 +1,3 @@
-import { TransearchIcon } from '@/components/icons/TransearchIcon';
 import type { AgentDef } from './types';
 import { TRANSEARCH_SPEECH_DNA_EARC_RANVIJAY } from './speechDnaTransearchEarcRanvijay';
 
@@ -11,7 +10,6 @@ export const transearchEarcRanvijayAgent: AgentDef = {
   role: 'Senior Executive Search Consultant',
   tagline: 'Personalized executive search outreach for Ran Vijay Singh (Progcap) for EARC Head of Analytics (Gurgaon)',
   languages: 'English',
-  icon: <TransearchIcon className="w-5 h-5" />,
   accentHex: '#0D1B2A',
   voiceName: 'Aoede',
   systemInstruction: TRANSEARCH_SPEECH_DNA_EARC_RANVIJAY,
